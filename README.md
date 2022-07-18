@@ -1,4 +1,4 @@
-# node-js-getting-started
+# Getting Started with Node.js
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
